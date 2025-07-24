@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="img/ndsl-uav.png" style="width: 20%; " />
+<img align="right" alt="GIF" src="img/ndsl-uav.png" style="width: 30%; " />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ndsl-UAV)
 
